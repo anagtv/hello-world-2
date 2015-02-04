@@ -1,4 +1,4 @@
 # hello-world-2
-mi primera prueba
+mi prueba
 hello humans...
 texto
